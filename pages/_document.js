@@ -9,6 +9,10 @@ export default class Doc extends Document {
         <body>
           <Main />
           <NextScript />
+          <script
+            src="https://cdn.jsdelivr.net/gh/md8-habibullah/webapp-launcher@main/launcher.js"
+            async
+          ></script>
         </body>
       </Html>
     )
